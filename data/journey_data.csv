@@ -1,0 +1,997 @@
+origin,originCountry,destination,destinationCountry,weightKg
+DAX CEDEX,France,HONG KONG,HKG,190.0
+DAX CEDEX,France,HONG KONG,HKG,570.0
+DAX CEDEX,France,HONG KONG,HKG,190.0
+DAX CEDEX,France,HONG KONG,HKG,1520.0
+DAX CEDEX,France,HONG KONG,HKG,1330.0
+DAX CEDEX,France,HONG KONG,HKG,760.0
+DAX CEDEX,France,HONG KONG,HKG,1330.0
+DAX CEDEX,France,HONG KONG,HKG,1140.0
+DAX CEDEX,France,HONG KONG,HKG,340.0
+DAX CEDEX,France,HONG KONG,HKG,170.0
+DAX CEDEX,France,HONG KONG,HKG,170.0
+DAX CEDEX,France,HONG KONG,HKG,170.0
+DAX CEDEX,France,HONG KONG,HKG,170.0
+DAX CEDEX,France,HONG KONG,HKG,-60.0
+DAX CEDEX,France,HONG KONG,HKG,1080.0
+DAX CEDEX,France,HONG KONG,HKG,190.0
+DAX CEDEX,France,HONG KONG,HKG,380.0
+DAX CEDEX,France,HONG KONG,HKG,190.0
+DAX CEDEX,France,HONG KONG,HKG,570.0
+DAX CEDEX,France,HONG KONG,HKG,340.0
+DAX CEDEX,France,HONG KONG,HKG,40.0
+DAX CEDEX,France,HONG KONG,HKG,170.0
+DAX CEDEX,France,HONG KONG,HKG,20.0
+DAX CEDEX,France,HONG KONG,HKG,190.0
+DAX CEDEX,France,HONG KONG,HKG,190.0
+DAX CEDEX,France,HONG KONG,HKG,190.0
+DAX CEDEX,France,HONG KONG,HKG,190.0
+Dongguan ,China,Huadu,CHN,880.0
+Dongguan ,China,Huadu,CHN,1760.0
+Dongguan ,China,Huadu,CHN,1760.0
+Dongguan ,China,Huadu,CHN,880.0
+Dongguan ,China,Huadu,CHN,1320.0
+Dongguan ,China,Huadu,CHN,880.0
+Dongguan ,China,Huadu,CHN,1320.0
+Dongguan ,China,Huadu,CHN,1720.0
+Dongguan ,China,Huadu,CHN,1720.0
+Dongguan ,China,Huadu,CHN,1720.0
+Dongguan ,China,Huadu,CHN,3440.0
+Dongguan ,China,Huadu,CHN,1290.0
+Dongguan ,China,Huadu,CHN,2150.0
+Dongguan ,China,Huadu,CHN,1640.0
+Dongguan ,China,Huadu,CHN,3120.0
+Dongguan ,China,Huadu,CHN,3120.0
+Dongguan ,China,Huadu,CHN,2340.0
+Dongguan ,China,Huadu,CHN,3120.0
+Dongguan ,China,Huadu,CHN,3120.0
+Dongguan ,China,Huadu,CHN,3120.0
+Dongguan ,China,Huadu,CHN,3120.0
+Dongguan ,China,Huadu,CHN,3040.0
+Dongguan ,China,Huadu,CHN,3040.0
+Dongguan ,China,Huadu,CHN,3040.0
+Dongguan ,China,Huadu,CHN,3040.0
+Dongguan ,China,Huadu,CHN,3040.0
+Dongguan ,China,Huadu,CHN,3040.0
+Dongguan ,China,Huadu,CHN,3040.0
+Dongguan ,China,Huadu,CHN,1900.0
+Dongguan ,China,Huadu,CHN,1900.0
+Dongguan ,China,Huadu,CHN,2280.0
+Hong Kong,Hong Kong,Huadu,CHN,450.0
+Hong Kong,Hong Kong,Huadu,CHN,450.0
+Hong Kong,Hong Kong,Huadu,CHN,450.0
+Hong Kong,Hong Kong,Huadu,CHN,900.0
+Hong Kong,Hong Kong,Huadu,CHN,900.0
+Hong Kong,Hong Kong,Huadu,CHN,900.0
+Hong Kong,Hong Kong,Huadu,CHN,1800.0
+Hong Kong,Hong Kong,Huadu,CHN,1350.0
+Hong Kong,Hong Kong,Huadu,CHN,1800.0
+Hong Kong,Hong Kong,Huadu,CHN,1800.0
+Hong Kong,Hong Kong,Huadu,CHN,1290.0
+Hong Kong,Hong Kong,Huadu,CHN,1720.0
+Hong Kong,Hong Kong,Huadu,CHN,1290.0
+Hong Kong,Hong Kong,Huadu,CHN,2150.0
+Hong Kong,Hong Kong,Huadu,CHN,1290.0
+Hong Kong,Hong Kong,Huadu,CHN,1600.0
+Hong Kong,Hong Kong,Huadu,CHN,800.0
+Hong Kong,Hong Kong,Huadu,CHN,700.0
+Hong Kong,Hong Kong,Huadu,CHN,700.0
+Hong Kong,Hong Kong,Huadu,CHN,700.0
+Hong Kong,Hong Kong,Huadu,CHN,700.0
+Hong Kong,Hong Kong,Huadu,CHN,320.0
+Hong Kong,Hong Kong,Huadu,CHN,640.0
+Hong Kong,Hong Kong,Huadu,CHN,640.0
+Hong Kong,Hong Kong,Huadu,CHN,400.0
+Hong Kong,Hong Kong,Huadu,CHN,2730.0
+Hong Kong,Hong Kong,Huadu,CHN,2340.0
+Hong Kong,Hong Kong,Huadu,CHN,1950.0
+Hong Kong,Hong Kong,Huadu,CHN,1950.0
+Hong Kong,Hong Kong,Huadu,CHN,1950.0
+Hong Kong,Hong Kong,Huadu,CHN,1950.0
+Hong Kong,Hong Kong,Huadu,CHN,2730.0
+Hong Kong,Hong Kong,Huadu,CHN,2280.0
+Hong Kong,Hong Kong,Huadu,CHN,2280.0
+Hong Kong,Hong Kong,Huadu,CHN,1900.0
+Hong Kong,Hong Kong,Huadu,CHN,1900.0
+Hong Kong,Hong Kong,Huadu,CHN,1900.0
+Hong Kong,Hong Kong,Huadu,CHN,2660.0
+Hong Kong,Hong Kong,Huadu,CHN,1900.0
+Hong Kong,Hong Kong,Huadu,CHN,1900.0
+Dongguan ,China,Huadu,CHN,312.0
+Dongguan ,China,Huadu,CHN,234.0
+Dongguan ,China,Huadu,CHN,390.0
+Dongguan ,China,Huadu,CHN,156.0
+Dongguan ,China,Huadu,CHN,234.0
+Dongguan ,China,Huadu,CHN,390.0
+Dongguan ,China,Huadu,CHN,390.0
+Dongguan ,China,Huadu,CHN,234.0
+Dongguan ,China,Huadu,CHN,234.0
+Dongguan ,China,Huadu,CHN,312.0
+Dongguan ,China,Huadu,CHN,390.0
+Dongguan ,China,Huadu,CHN,234.0
+Dongguan ,China,Huadu,CHN,648.0
+Dongguan ,China,Huadu,CHN,972.0
+Dongguan ,China,Huadu,CHN,648.0
+Dongguan ,China,Huadu,CHN,972.0
+Dongguan ,China,Huadu,CHN,972.0
+Dongguan ,China,Huadu,CHN,972.0
+Dongguan ,China,Huadu,CHN,972.0
+Dongguan ,China,Huadu,CHN,972.0
+Dongguan ,China,Huadu,CHN,1173.0
+Dongguan ,China,Huadu,CHN,972.0
+Dongguan ,China,Huadu,CHN,972.0
+Dongguan ,China,Huadu,CHN,840.0
+Dongguan ,China,Huadu,CHN,660.0
+Dongguan ,China,Huadu,CHN,720.0
+Dongguan ,China,Huadu,CHN,780.0
+Dongguan ,China,Huadu,CHN,816.0
+Dongguan ,China,Huadu,CHN,780.0
+Dongguan ,China,Huadu,CHN,780.0
+Dongguan ,China,Huadu,CHN,780.0
+Dongguan ,China,Huadu,CHN,540.0
+Dongguan ,China,Huadu,CHN,780.0
+Dongguan ,China,Huadu,CHN,900.0
+Dongguan ,China,Huadu,CHN,480.0
+HIGHTSTOWN,USA,NORTHAMPTON,GBR,49.36
+HIGHTSTOWN,USA,NORTHAMPTON,GBR,50.0
+HIGHTSTOWN,USA,NORTHAMPTON,GBR,100.0
+HIGHTSTOWN,USA,NORTHAMPTON,GBR,50.0
+Cairo,Egypt,NORTHAMPTON,GBR,3.0
+Cairo,Egypt,NORTHAMPTON,GBR,3.0
+Cairo,Egypt,NORTHAMPTON,GBR,3.0
+Cairo,Egypt,NORTHAMPTON,GBR,3.0
+Cairo,Egypt,NORTHAMPTON,GBR,180.0
+Cairo,Egypt,NORTHAMPTON,GBR,2.0
+Cairo,Egypt,NORTHAMPTON,GBR,4.0
+Cairo,Egypt,NORTHAMPTON,GBR,2.0
+Cairo,Egypt,NORTHAMPTON,GBR,4.0
+Cairo,Egypt,NORTHAMPTON,GBR,4.0
+Cairo,Egypt,NORTHAMPTON,GBR,0.5
+Cairo,Egypt,NORTHAMPTON,GBR,0.5
+Cairo,Egypt,NORTHAMPTON,GBR,2.0
+Cairo,Egypt,NORTHAMPTON,GBR,2.0
+Cairo,Egypt,NORTHAMPTON,GBR,2.0
+Cairo,Egypt,NORTHAMPTON,GBR,0.5
+Cairo,Egypt,NORTHAMPTON,GBR,5.0
+Cairo,Egypt,NORTHAMPTON,GBR,5.0
+Cairo,Egypt,NORTHAMPTON,GBR,5.0
+CAIRO,Egypt,HONG KONG,HKG,180.0
+CAIRO,Egypt,HONG KONG,HKG,360.0
+CAIRO,Egypt,HONG KONG,HKG,360.0
+CAIRO,Egypt,Vilassar de Dalt,ESP,1.0
+CAIRO,Egypt,Vilassar de Dalt,ESP,2651.0
+CAIRO,Egypt,Vilassar de Dalt,ESP,2651.0
+CAIRO,Egypt,HONG KONG,HKG,1.0
+CAIRO,Egypt,HONG KONG,HKG,1.0
+CAIRO,Egypt,HONG KONG,HKG,1.0
+CAIRO,Egypt,HONG KONG,HKG,2.0
+CAIRO,Egypt,HONG KONG,HKG,2.0
+CAIRO,Egypt,HONG KONG,HKG,2.0
+CAIRO,Egypt,HONG KONG,HKG,2.0
+CAIRO,Egypt,HONG KONG,HKG,2.0
+CAIRO,Egypt,Vilassar de Dalt,ESP,2.0
+CAIRO,Egypt,Vilassar de Dalt,ESP,2.0
+Hoexter-Stahle,Germany,Vilassar de Dalt,ESP,10.0
+Hoexter-Stahle,Germany,Jebel Ali Free Zone,ARE,1.0
+Hoexter-Stahle,Germany,Jebel Ali Free Zone,ARE,145.0
+Hoexter-Stahle,Germany,Jebel Ali Free Zone,ARE,172.0
+Hoexter-Stahle,Germany,Jebel Ali Free Zone,ARE,145.0
+Hoexter-Stahle,Germany,Jebel Ali Free Zone,ARE,172.0
+Hoexter-Stahle,Germany,Jebel Ali Free Zone,ARE,59.0
+Hoexter-Stahle,Germany,Jebel Ali Free Zone,ARE,53.96
+Hoexter-Stahle,Germany,Jebel Ali Free Zone,ARE,59.0
+Hoexter-Stahle,Germany,Jebel Ali Free Zone,ARE,59.0
+Hoexter-Stahle,Germany,Jebel Ali Free Zone,ARE,53.96
+Hoexter-Stahle,Germany,Jebel Ali Free Zone,ARE,59.0
+Hoexter-Stahle,Germany,Jebel Ali Free Zone,ARE,71.0
+Hoexter-Stahle,Germany,Jebel Ali Free Zone,ARE,71.0
+Hoexter-Stahle,Germany,Jebel Ali Free Zone,ARE,71.0
+Hoexter-Stahle,Germany,Jebel Ali Free Zone,ARE,71.0
+Hoexter-Stahle,Germany,Jebel Ali Free Zone,ARE,215.4
+Hoexter-Stahle,Germany,Jebel Ali Free Zone,ARE,215.4
+Hoexter-Stahle,Germany,Jebel Ali Free Zone,ARE,164.0
+Hoexter-Stahle,Germany,Jebel Ali Free Zone,ARE,153.0
+Hoexter-Stahle,Germany,Jebel Ali Free Zone,ARE,164.0
+Hoexter-Stahle,Germany,Jebel Ali Free Zone,ARE,153.0
+Hoexter-Stahle,Germany,Jebel Ali Free Zone,ARE,395.0
+Hoexter-Stahle,Germany,Jebel Ali Free Zone,ARE,345.0
+Hoexter-Stahle,Germany,Jebel Ali Free Zone,ARE,408.0
+Hoexter-Stahle,Germany,Jebel Ali Free Zone,ARE,458.0
+Hoexter-Stahle,Germany,Jebel Ali Free Zone,ARE,395.0
+Hoexter-Stahle,Germany,Jebel Ali Free Zone,ARE,345.0
+Hoexter-Stahle,Germany,Jebel Ali Free Zone,ARE,408.0
+Hoexter-Stahle,Germany,Jebel Ali Free Zone,ARE,458.0
+Hoexter-Stahle,Germany,Jebel Ali Free Zone,ARE,125.0
+Hoexter-Stahle,Germany,Jebel Ali Free Zone,ARE,10.0
+Hoexter-Stahle,Germany,Jebel Ali Free Zone,ARE,5.0
+Hoexter-Stahle,Germany,NORTHAMPTON,GBR,100.0
+Hoexter-Stahle,Germany,NORTHAMPTON,GBR,25.0
+Hoexter-Stahle,Germany,NORTHAMPTON,GBR,25.0
+Hoexter-Stahle,Germany,NORTHAMPTON,GBR,5.0
+Hoexter-Stahle,Germany,NORTHAMPTON,GBR,5.0
+Hoexter-Stahle,Germany,NORTHAMPTON,GBR,5.0
+Hoexter-Stahle,Germany,NORTHAMPTON,GBR,5.0
+Hoexter-Stahle,Germany,NORTHAMPTON,GBR,25.0
+Hoexter-Stahle,Germany,NORTHAMPTON,GBR,15.0
+Hoexter-Stahle,Germany,NORTHAMPTON,GBR,25.0
+Hoexter-Stahle,Germany,NORTHAMPTON,GBR,20.0
+Hoexter-Stahle,Germany,NORTHAMPTON,GBR,25.0
+Hoexter-Stahle,Germany,NORTHAMPTON,GBR,25.0
+Hoexter-Stahle,Germany,NORTHAMPTON,GBR,10.0
+Hoexter-Stahle,Germany,NORTHAMPTON,GBR,10.0
+Hoexter-Stahle,Germany,NORTHAMPTON,GBR,25.0
+Hoexter-Stahle,Germany,NORTHAMPTON,GBR,25.0
+Hoexter-Stahle,Germany,NORTHAMPTON,GBR,10.0
+Hoexter-Stahle,Germany,NORTHAMPTON,GBR,25.0
+Hoexter-Stahle,Germany,NORTHAMPTON,GBR,5.0
+Hoexter-Stahle,Germany,NORTHAMPTON,GBR,5.0
+Hoexter-Stahle,Germany,NORTHAMPTON,GBR,200.0
+Hoexter-Stahle,Germany,NORTHAMPTON,GBR,200.0
+Hoexter-Stahle,Germany,NORTHAMPTON,GBR,200.0
+Hoexter-Stahle,Germany,NORTHAMPTON,GBR,200.0
+Hoexter-Stahle,Germany,NORTHAMPTON,GBR,200.0
+Hoexter-Stahle,Germany,NORTHAMPTON,GBR,5.0
+Hoexter-Stahle,Germany,NORTHAMPTON,GBR,10.0
+Hoexter-Stahle,Germany,NORTHAMPTON,GBR,10.0
+Hoexter-Stahle,Germany,NORTHAMPTON,GBR,25.0
+Hoexter-Stahle,Germany,NORTHAMPTON,GBR,25.0
+Hoexter-Stahle,Germany,NORTHAMPTON,GBR,10.0
+Hoexter-Stahle,Germany,NORTHAMPTON,GBR,20.0
+Hoexter-Stahle,Germany,NORTHAMPTON,GBR,20.0
+Hoexter-Stahle,Germany,NORTHAMPTON,GBR,10.0
+Hoexter-Stahle,Germany,NORTHAMPTON,GBR,25.0
+Hoexter-Stahle,Germany,NORTHAMPTON,GBR,-25.0
+Hoexter-Stahle,Germany,NORTHAMPTON,GBR,15.0
+Hoexter-Stahle,Germany,HONG KONG,HKG,200.0
+Hoexter-Stahle,Germany,HONG KONG,HKG,200.0
+HOEXTER-STAHLE,Germany,Vilassar de Dalt,ESP,50.0
+HOEXTER-STAHLE,Germany,Vilassar de Dalt,ESP,50.0
+HOEXTER-STAHLE,Germany,Vilassar de Dalt,ESP,25.0
+HOEXTER-STAHLE,Germany,Vilassar de Dalt,ESP,48.95
+HOEXTER-STAHLE,Germany,Vilassar de Dalt,ESP,48.95
+HOEXTER-STAHLE,Germany,Vilassar de Dalt,ESP,10.0
+HOEXTER-STAHLE,Germany,Vilassar de Dalt,ESP,25.0
+HOEXTER-STAHLE,Germany,Vilassar de Dalt,ESP,25.0
+HOEXTER-STAHLE,Germany,Vilassar de Dalt,ESP,5.0
+HOEXTER-STAHLE,Germany,Vilassar de Dalt,ESP,5.0
+HOEXTER-STAHLE,Germany,Vilassar de Dalt,ESP,5.0
+HOEXTER-STAHLE,Germany,Vilassar de Dalt,ESP,5.0
+HOEXTER-STAHLE,Germany,Vilassar de Dalt,ESP,10.0
+HOEXTER-STAHLE,Germany,Vilassar de Dalt,ESP,5.0
+HOEXTER-STAHLE,Germany,Vilassar de Dalt,ESP,5.0
+HOEXTER-STAHLE,Germany,Vilassar de Dalt,ESP,15.0
+HOEXTER-STAHLE,Germany,Vilassar de Dalt,ESP,25.0
+HOEXTER-STAHLE,Germany,Vilassar de Dalt,ESP,25.0
+Cairo,Egypt,Jebel Ali Free Zone,ARE,263.0
+Cairo,Egypt,Jebel Ali Free Zone,ARE,263.0
+Cairo,Egypt,Jebel Ali Free Zone,ARE,2652.0
+Cairo,Egypt,Jebel Ali Free Zone,ARE,2656.0
+Cairo,Egypt,Jebel Ali Free Zone,ARE,2653.0
+Cairo,Egypt,Jebel Ali Free Zone,ARE,2652.0
+Cairo,Egypt,Jebel Ali Free Zone,ARE,2656.0
+Cairo,Egypt,Jebel Ali Free Zone,ARE,2653.0
+Cairo,Egypt,Jebel Ali Free Zone,ARE,2.0
+Cairo,Egypt,Jebel Ali Free Zone,ARE,1201.0
+Cairo,Egypt,Jebel Ali Free Zone,ARE,1201.0
+Cairo,Egypt,Jebel Ali Free Zone,ARE,1750.5
+Cairo,Egypt,Jebel Ali Free Zone,ARE,1750.5
+Cairo,Egypt,Jebel Ali Free Zone,ARE,0.5
+Cairo,Egypt,Jebel Ali Free Zone,ARE,175.0
+Cairo,Egypt,Jebel Ali Free Zone,ARE,180.0
+Cairo,Egypt,Jebel Ali Free Zone,ARE,175.0
+Cairo,Egypt,Jebel Ali Free Zone,ARE,180.0
+Cairo,Egypt,Jebel Ali Free Zone,ARE,5.0
+SWITZERLAND,SWITZERLAND,Vilassar de Dalt,ESP,5.0
+SWITZERLAND,SWITZERLAND,Vilassar de Dalt,ESP,5.0
+SWITZERLAND,SWITZERLAND,Vilassar de Dalt,ESP,5.0
+SWITZERLAND,SWITZERLAND,Vilassar de Dalt,ESP,10.0
+SWITZERLAND,SWITZERLAND,Vilassar de Dalt,ESP,5.0
+SWITZERLAND,SWITZERLAND,Vilassar de Dalt,ESP,300.0
+SWITZERLAND,SWITZERLAND,Vilassar de Dalt,ESP,300.0
+SWITZERLAND,SWITZERLAND,NORTHAMPTON,GBR,180.0
+SWITZERLAND,SWITZERLAND,NORTHAMPTON,GBR,20.0
+SWITZERLAND,SWITZERLAND,NORTHAMPTON,GBR,5.0
+SWITZERLAND,SWITZERLAND,NORTHAMPTON,GBR,10.0
+SWITZERLAND,SWITZERLAND,NORTHAMPTON,GBR,5.0
+SWITZERLAND,SWITZERLAND,NORTHAMPTON,GBR,15.0
+SWITZERLAND,SWITZERLAND,NORTHAMPTON,GBR,25.0
+SWITZERLAND,SWITZERLAND,NORTHAMPTON,GBR,25.0
+SWITZERLAND,SWITZERLAND,NORTHAMPTON,GBR,25.0
+SWITZERLAND,SWITZERLAND,NORTHAMPTON,GBR,25.0
+SWITZERLAND,SWITZERLAND,NORTHAMPTON,GBR,50.0
+Granollers,Spain,Vilassar de Dalt,ESP,600.0
+Granollers,Spain,Vilassar de Dalt,ESP,600.0
+Granollers,Spain,Vilassar de Dalt,ESP,600.35
+Granollers,Spain,Vilassar de Dalt,ESP,900.35
+Granollers,Spain,Vilassar de Dalt,ESP,600.35
+Granollers,Spain,Vilassar de Dalt,ESP,900.35
+Tunbridge Wells ,United Kingdom,NORTHAMPTON,GBR,200.0
+Tunbridge Wells ,United Kingdom,NORTHAMPTON,GBR,200.0
+Tunbridge Wells ,United Kingdom,NORTHAMPTON,GBR,200.0
+Tunbridge Wells ,United Kingdom,NORTHAMPTON,GBR,200.0
+Tunbridge Wells ,United Kingdom,NORTHAMPTON,GBR,400.0
+Jakarta,Indonesia,Jebel Ali Free Zone,ARE,2621.2
+Jakarta,Indonesia,Jebel Ali Free Zone,ARE,2621.2
+Jakarta,Indonesia,Jebel Ali Free Zone,ARE,2600.0
+Jakarta,Indonesia,Jebel Ali Free Zone,ARE,1.0
+Jakarta,Indonesia,Jebel Ali Free Zone,ARE,282.0
+Jakarta,Indonesia,Jebel Ali Free Zone,ARE,282.0
+Jakarta,Indonesia,Jebel Ali Free Zone,ARE,0.5
+Jakarta,Indonesia,Jebel Ali Free Zone,ARE,2.0
+Jakarta,Indonesia,Jebel Ali Free Zone,ARE,0.5
+VALLAURIS,France,Jebel Ali Free Zone,ARE,361.0
+VALLAURIS,France,Jebel Ali Free Zone,ARE,361.0
+VALLAURIS,France,Jebel Ali Free Zone,ARE,25.0
+VALLAURIS,France,Jebel Ali Free Zone,ARE,2705.58
+VALLAURIS,France,Jebel Ali Free Zone,ARE,2705.58
+VALLAURIS,France,Jebel Ali Free Zone,ARE,2383.18
+VALLAURIS,France,Jebel Ali Free Zone,ARE,2566.0
+VALLAURIS,France,Jebel Ali Free Zone,ARE,2566.0
+VALLAURIS,France,Jebel Ali Free Zone,ARE,2383.18
+VALLAURIS,France,Jebel Ali Free Zone,ARE,2566.0
+VALLAURIS,France,Jebel Ali Free Zone,ARE,2566.0
+VALLAURIS,France,Jebel Ali Free Zone,ARE,1.0
+VALLAURIS,France,Jebel Ali Free Zone,ARE,1.0
+VALLAURIS,France,Jebel Ali Free Zone,ARE,193.38
+VALLAURIS,France,Jebel Ali Free Zone,ARE,193.38
+VALLAURIS,France,Jebel Ali Free Zone,ARE,193.38
+VALLAURIS,France,Jebel Ali Free Zone,ARE,193.38
+VALLAURIS,France,Jebel Ali Free Zone,ARE,316.8
+VALLAURIS,France,Jebel Ali Free Zone,ARE,316.8
+VALLAURIS,France,Jebel Ali Free Zone,ARE,802.0
+VALLAURIS,France,Jebel Ali Free Zone,ARE,1045.58
+VALLAURIS,France,Jebel Ali Free Zone,ARE,1045.58
+VALLAURIS,France,Jebel Ali Free Zone,ARE,802.0
+VALLAURIS,France,Jebel Ali Free Zone,ARE,1045.58
+VALLAURIS,France,Jebel Ali Free Zone,ARE,1045.58
+VALLAURIS,France,Jebel Ali Free Zone,ARE,2.0
+VALLAURIS,France,Jebel Ali Free Zone,ARE,2.0
+VALLAURIS,France,NORTHAMPTON,GBR,25.0
+VALLAURIS,France,NORTHAMPTON,GBR,25.0
+VALLAURIS,France,NORTHAMPTON,GBR,20.0
+VALLAURIS,France,NORTHAMPTON,GBR,1.0
+VALLAURIS,France,NORTHAMPTON,GBR,1.0
+VALLAURIS,France,NORTHAMPTON,GBR,1.0
+VALLAURIS,France,NORTHAMPTON,GBR,1.0
+VALLAURIS,France,NORTHAMPTON,GBR,10.0
+VALLAURIS,France,NORTHAMPTON,GBR,10.0
+VALLAURIS,France,NORTHAMPTON,GBR,2.89
+VALLAURIS,France,NORTHAMPTON,GBR,10.0
+VALLAURIS,France,NORTHAMPTON,GBR,5.0
+VALLAURIS,France,NORTHAMPTON,GBR,5.0
+VALLAURIS,France,NORTHAMPTON,GBR,5.0
+VALLAURIS,France,NORTHAMPTON,GBR,20.0
+VALLAURIS,France,NORTHAMPTON,GBR,5.0
+VALLAURIS,France,NORTHAMPTON,GBR,20.0
+VALLAURIS,France,NORTHAMPTON,GBR,10.0
+VALLAURIS,France,NORTHAMPTON,GBR,5.0
+VALLAURIS,France,NORTHAMPTON,GBR,2.0
+VALLAURIS,France,NORTHAMPTON,GBR,2.0
+VALLAURIS,France,NORTHAMPTON,GBR,1.0
+VALLAURIS,France,NORTHAMPTON,GBR,2.0
+VALLAURIS,France,NORTHAMPTON,GBR,2.0
+VALLAURIS,France,NORTHAMPTON,GBR,2.0
+VALLAURIS,France,NORTHAMPTON,GBR,5.0
+VALLAURIS,France,NORTHAMPTON,GBR,10.0
+VALLAURIS,France,NORTHAMPTON,GBR,5.0
+VALLAURIS,France,NORTHAMPTON,GBR,10.0
+VALLAURIS,France,HONG KONG,HKG,2.2
+VALLAURIS,France,HONG KONG,HKG,1.0
+VALLAURIS,France,HONG KONG,HKG,1.0
+VALLAURIS,France,Vilassar de Dalt,ESP,5.0
+VALLAURIS,France,Vilassar de Dalt,ESP,198.38
+VALLAURIS,France,Vilassar de Dalt,ESP,198.38
+VALLAURIS,France,HONG KONG,HKG,25.0
+VALLAURIS,France,HONG KONG,HKG,25.0
+VALLAURIS,France,HONG KONG,HKG,30.0
+VALLAURIS,France,HONG KONG,HKG,3.0
+VALLAURIS,France,HONG KONG,HKG,5.0
+VALLAURIS,France,HONG KONG,HKG,5.0
+VALLAURIS,France,Vilassar de Dalt,ESP,5.0
+VALLAURIS,France,HONG KONG,HKG,5.0
+VALLAURIS,France,HONG KONG,HKG,5.0
+VALLAURIS,France,HONG KONG,HKG,5.0
+VALLAURIS,France,Vilassar de Dalt,ESP,5.0
+VALLAURIS,France,Vilassar de Dalt,ESP,3.43
+VALLAURIS,France,HONG KONG,HKG,6.0
+VALLAURIS,France,HONG KONG,HKG,1.0
+VALLAURIS,France,HONG KONG,HKG,0.76
+Bhyandar,India,Jebel Ali Free Zone,ARE,4609.11
+Bhyandar,India,Jebel Ali Free Zone,ARE,4609.11
+Bhyandar,India,Jebel Ali Free Zone,ARE,1152.0
+Bhyandar,India,Jebel Ali Free Zone,ARE,3456.0
+Bhyandar,India,Jebel Ali Free Zone,ARE,4000.0
+Bhyandar,India,Jebel Ali Free Zone,ARE,2000.0
+Bhyandar,India,Jebel Ali Free Zone,ARE,1728.0
+Bhyandar,India,Jebel Ali Free Zone,ARE,1320.0
+Bhyandar,India,Jebel Ali Free Zone,ARE,1000.0
+Bhyandar,India,Jebel Ali Free Zone,ARE,600.0
+Bhyandar,India,Jebel Ali Free Zone,ARE,936.0
+Bhyandar,India,Jebel Ali Free Zone,ARE,208.0
+Santa Margarida i els Monjos,Spain,Vilassar de Dalt,ESP,800.0
+BISHOP'S STORTFORD,United Kingdom,NORTHAMPTON,GBR,110.0
+BISHOP'S STORTFORD,United Kingdom,NORTHAMPTON,GBR,220.0
+BISHOP'S STORTFORD,United Kingdom,NORTHAMPTON,GBR,300.0
+BISHOP'S STORTFORD,United Kingdom,NORTHAMPTON,GBR,242.0
+BISHOP'S STORTFORD,United Kingdom,NORTHAMPTON,GBR,198.0
+BISHOP'S STORTFORD,United Kingdom,NORTHAMPTON,GBR,176.0
+MORECAMBE,United Kingdom,NORTHAMPTON,GBR,0.8
+MORECAMBE,United Kingdom,NORTHAMPTON,GBR,0.8
+MORECAMBE,United Kingdom,NORTHAMPTON,GBR,0.1
+MORECAMBE,United Kingdom,NORTHAMPTON,GBR,0.1
+MORECAMBE,United Kingdom,NORTHAMPTON,GBR,1.0
+MORECAMBE,United Kingdom,NORTHAMPTON,GBR,0.1
+MORECAMBE,United Kingdom,NORTHAMPTON,GBR,0.1
+MORECAMBE,United Kingdom,NORTHAMPTON,GBR,0.3
+MORECAMBE,United Kingdom,NORTHAMPTON,GBR,0.4
+MORECAMBE,United Kingdom,NORTHAMPTON,GBR,0.4
+MORECAMBE,United Kingdom,NORTHAMPTON,GBR,0.4
+MORECAMBE,United Kingdom,NORTHAMPTON,GBR,0.4
+"Kazanlak, ",Bulgaria,NORTHAMPTON,GBR,1.0
+"Kazanlak, ",Bulgaria,NORTHAMPTON,GBR,1.0
+"Kazanlak, ",Bulgaria,NORTHAMPTON,GBR,2.0
+Mumbai,India,Jebel Ali Free Zone,ARE,390.9
+Mumbai,India,Jebel Ali Free Zone,ARE,510.9
+Mumbai,India,Jebel Ali Free Zone,ARE,390.9
+Mumbai,India,Jebel Ali Free Zone,ARE,510.9
+Mumbai,India,Jebel Ali Free Zone,ARE,360.0
+Rubí,Spain,Vilassar de Dalt,ESP,96.0
+Rubí,Spain,Vilassar de Dalt,ESP,96.0
+Rubí,Spain,Vilassar de Dalt,ESP,1.0
+Rubí,Spain,Vilassar de Dalt,ESP,5.0
+Rubí,Spain,Vilassar de Dalt,ESP,5.0
+Rubí,Spain,Vilassar de Dalt,ESP,503.0
+Rubí,Spain,Vilassar de Dalt,ESP,503.0
+Grasse,France,NORTHAMPTON,GBR,200.0
+Grasse,France,NORTHAMPTON,GBR,200.0
+Grasse,France,NORTHAMPTON,GBR,200.0
+Grasse,France,Jebel Ali Free Zone,ARE,197.63
+FRANCE,France,HONG KONG,HKG,100.0
+Grasse,France,NORTHAMPTON,GBR,197.7
+ANKLESHWAR,India,HONG KONG,HKG,1800.0
+ANKLESHWAR,India,HONG KONG,HKG,1800.0
+ANKLESHWAR,India,HONG KONG,HKG,1800.0
+ANKLESHWAR,India,HONG KONG,HKG,2700.0
+ANKLESHWAR,India,HONG KONG,HKG,2475.0
+ALTON,United Kingdom,NORTHAMPTON,GBR,10.0
+ALTON,United Kingdom,NORTHAMPTON,GBR,5.0
+ALTON,United Kingdom,NORTHAMPTON,GBR,5.0
+ALTON,United Kingdom,NORTHAMPTON,GBR,0.1
+ALTON,United Kingdom,NORTHAMPTON,GBR,16.4
+LEVALLOIS-PERRET,France,Jebel Ali Free Zone,ARE,184.5
+LEVALLOIS-PERRET,France,Jebel Ali Free Zone,ARE,184.5
+LEVALLOIS-PERRET,France,Jebel Ali Free Zone,ARE,493.0
+LEVALLOIS-PERRET,France,Jebel Ali Free Zone,ARE,503.0
+LEVALLOIS-PERRET,France,Jebel Ali Free Zone,ARE,493.0
+LEVALLOIS-PERRET,France,Jebel Ali Free Zone,ARE,503.0
+LEVALLOIS-PERRET,France,Jebel Ali Free Zone,ARE,269.41
+LEVALLOIS-PERRET,France,Jebel Ali Free Zone,ARE,269.41
+LEVALLOIS-PERRET,France,NORTHAMPTON,GBR,25.0
+LEVALLOIS-PERRET,France,Vilassar de Dalt,ESP,1.0
+LEVALLOIS-PERRET,France,Vilassar de Dalt,ESP,471.0
+LEVALLOIS-PERRET,France,Vilassar de Dalt,ESP,471.0
+LEVALLOIS-PERRET,France,NORTHAMPTON,GBR,5.0
+LEVALLOIS-PERRET,France,Vilassar de Dalt,ESP,159.0
+LEVALLOIS-PERRET,France,Vilassar de Dalt,ESP,159.0
+LEVALLOIS-PERRET,France,HONG KONG,HKG,10.0
+LEVALLOIS-PERRET,France,HONG KONG,HKG,50.0
+LEVALLOIS-PERRET,France,HONG KONG,HKG,3.0
+LEVALLOIS-PERRET,France,HONG KONG,HKG,5.0
+North Point,Hong Kong,HONG KONG,HKG,200.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,7.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,10.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,4.97
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,4.98
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,1.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,1.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,360.34
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,360.34
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,19.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,105.01
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,105.01
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,4.98
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,2.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,5.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,5.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,96.1
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,96.1
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,15.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,2.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,294.59
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,294.59
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,20.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,15.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,4.97
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,10.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,25.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,79.64
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,79.64
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,2.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,3.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,5.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,10.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,10.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,10.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,10.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,10.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,49.6
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,10.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,2.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,10.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,25.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,87.01
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,87.01
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,50.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,15.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,50.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,10.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,9.96
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,5.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,5.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,5.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,5.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,112.48
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,112.48
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,4.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,5.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,10.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,4.975
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,2.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,10.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,1.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,3.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,25.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,24.8
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,50.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,25.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,96.32
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,96.32
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,50.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,50.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,15.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,50.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,50.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,50.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,10.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,10.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,4.99
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,10.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,50.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,10.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,4.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,6.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,3.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,2.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,3.93
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,2.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,2.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,4.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,2.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,3.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,4.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,50.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,50.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,50.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,0.2
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,50.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,50.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,50.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,50.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,50.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,50.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,25.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,283.91
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,288.91
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,283.91
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,288.91
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,1.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,4.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,2.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,2.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,2.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,2.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,2.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,5.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,3.77
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,2.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,4.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,10.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,10.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,1.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,2.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,-1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,25.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,50.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,25.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,167.74
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,167.74
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,50.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,25.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,50.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,45.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,50.0
+HERTFORD,United Kingdom,Vilassar de Dalt,ESP,10.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,9.91
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,9.93
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,0.89
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+HERTFORD,United Kingdom,NORTHAMPTON,GBR,1.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,159.4
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,170.4
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,159.4
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,170.4
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,8.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,128.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,128.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,295.93
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,315.93
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,295.93
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,295.93
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,315.93
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,295.93
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,93.9
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,93.9
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,25.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,25.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,84.88
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,105.01
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,84.88
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,105.01
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,96.1
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,96.1
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,781.13
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,781.13
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,781.13
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,781.13
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,5.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,353.75
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,353.75
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,10.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,192.55
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,191.55
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,191.55
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,192.55
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,191.55
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,191.55
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,1.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,1.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,5.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,-5.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,10.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,156.21
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,156.25
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,131.25
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,131.25
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,236.25
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,236.25
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,156.21
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,156.25
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,131.25
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,131.25
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,236.25
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,236.25
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,50.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,100.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,152.65
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,95.18
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,95.18
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,105.18
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,152.65
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,95.18
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,95.18
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,105.18
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,5.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,178.32
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,135.81
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,178.32
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,135.81
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,118.28
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,118.28
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,75.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,100.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,100.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,100.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,100.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,5.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,5.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,10.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,10.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,25.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,41.21
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,41.21
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,80.02
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,80.02
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,80.02
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,80.02
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,10.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,5.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,10.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,136.17
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,161.17
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,161.17
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,136.17
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,136.17
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,161.17
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,161.17
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,136.17
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,25.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,50.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,524.36
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,524.36
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,524.36
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,524.36
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,524.36
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,524.36
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,824.91
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,823.97
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,824.91
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,823.97
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,5.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,-5.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,1155.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,1155.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,4.91
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,3.9
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,1.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,101.35
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,101.35
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,5.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,43.5
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,43.5
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,74.88
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,74.88
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,172.75
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,171.75
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,172.75
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,171.75
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,5.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,5.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,173.61
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,173.61
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,173.61
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,173.61
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,185.91
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,223.42
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,185.91
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,223.42
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,10.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,94.84
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,94.84
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,94.84
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,94.84
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,94.84
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,94.84
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,54.81
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,58.46
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,52.82
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,47.42
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,52.42
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,58.46
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,58.46
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,58.46
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,54.81
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,58.46
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,52.82
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,47.42
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,52.42
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,58.46
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,58.46
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,58.46
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,75.76
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,71.32
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,71.32
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,71.32
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,75.76
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,71.32
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,71.32
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,71.32
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,470.27
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,470.27
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,470.27
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,470.27
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,470.27
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,470.27
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,287.56
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,287.56
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,1.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,77.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,77.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,79.64
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,79.64
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,79.64
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,79.64
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,400.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,106.07
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,104.21
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,106.07
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,104.21
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,5.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,244.01
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,244.01
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,244.01
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,244.01
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,95.2
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,95.2
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,70.2
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,120.2
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,95.2
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,95.2
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,70.2
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,120.2
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,25.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,25.0
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,9490.96
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,9490.86
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,9490.96
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,9490.86
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,35.9
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,110.9
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,35.9
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,110.9
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,298.91
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,298.91
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,298.91
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,285.47
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,285.47
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,285.47
+Hertford,United Kingdom,Jebel Ali Free Zone,ARE,298.91
