@@ -1,4 +1,3 @@
-// Re-export TransportRow from schema for backward compatibility
 export type { TransportRow } from '../schemas/transportRowSchema';
 
 // Transport mode types
