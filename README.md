@@ -272,7 +272,7 @@ src/
 
 ### Deployment url
 
-https://fe-tech-test-gelc6qgz8-hokken-gmailcoms-projects.vercel.app/
+https://fe-tech-test-tau.vercel.app/
 
 ---
 
