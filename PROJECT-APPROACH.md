@@ -1,6 +1,6 @@
 Here is how I approach this project and most projects from concept to deployment:
 
-1. 1 hour - Research the project and understand the requirements(2h)
+1. 1 hour - Research the project and understand the requirements
 
 2. 1 hour - Create a NOTES.md file that contains my approach to the project with the following sections:
 
@@ -16,7 +16,7 @@ Here is how I approach this project and most projects from concept to deployment
       - error handling
       - optional features
 
-3. 30 minSubmit the NOTES.md to Claude Code for skeleton implementation and basic folder and file structure
+3. 30 min - Submit the NOTES.md to Claude Code for skeleton implementation and basic folder and file structure
 
       - Review the code skeleton and make any necessary changes to make sure it is aligned with my initial notes and intended architecture/patterns
       - adjust to my requirements if necessary
