@@ -55,10 +55,7 @@ export function RouteTable() {
     if (newSelection) {
       // Find the chart element by looking for TransportChart component content
       // We'll scroll to the chart container which should be above the table
-      const chartElement = document.querySelector('[data-testid="transport-chart"]') || 
-                          document.querySelector('.recharts-wrapper') ||
-                          document.querySelector('h1'); // Fallback to page header
-      
+      const chartElement = document.querySelector('[data-testid="transport-chart"]') 
       if (chartElement) {
         chartElement.scrollIntoView({ 
           behavior: 'smooth', 
