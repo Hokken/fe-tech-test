@@ -1,4 +1,4 @@
-Here is how I approach this project  and most projects from concept to deployment:
+Here is how I approached this project  and most projects from concept to deployment:
 
 1. 1 hour - Research the project and understand the requirements(2h)
 
