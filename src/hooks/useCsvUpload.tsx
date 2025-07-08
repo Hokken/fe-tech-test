@@ -1,9 +1,9 @@
 import { useState, useCallback } from 'react';
 import { parseCsvFile } from '../utils/csvParser';
-import { useJourney } from '../contexts/JourneyContext';
+import { useJourneyContext } from '../contexts/JourneyContext';
 
 export const useCsvUpload = () => {
-  const { loadJourneyData } = useJourney();
+  const { loadJourneyData } = useJourneyContext();
   const [isUploading, setIsUploading] = useState(false);
   const [uploadError, setUploadError] = useState<string | null>(null);
 

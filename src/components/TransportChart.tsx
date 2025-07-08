@@ -1,5 +1,5 @@
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
-import { useJourney } from '../contexts/JourneyContext';
+import { useJourneyContext } from '../contexts/JourneyContext';
 
 /**
  * TransportChart component displays weight distribution across transport modes.
@@ -13,7 +13,7 @@ import { useJourney } from '../contexts/JourneyContext';
 export function TransportChart() {
   // Get chart data and route selection from global context
   // selectedRouteChartData automatically switches between all routes and selected route
-  const { selectedRouteChartData, selectedRoute, setSelectedRoute } = useJourney();
+  const { selectedRouteChartData, selectedRoute, setSelectedRoute } = useJourneyContext();
 
   /**
    * Transform our internal ChartData format to Recharts format.

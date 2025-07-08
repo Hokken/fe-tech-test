@@ -104,7 +104,7 @@ export function JourneyProvider({ children }: { children: ReactNode }) {
 
 	/**
 	 * Provider component that makes all journey data and actions available
-	 * to any child component through the useJourney hook.
+	 * to any child component through the useJourneyContext hook.
 	 * 
 	 * The value object contains:
 	 * - Raw data: journeys, routeGroups, selectedRoute

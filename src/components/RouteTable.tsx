@@ -1,5 +1,5 @@
 import { useState, useMemo } from 'react';
-import { useJourney } from '../contexts/JourneyContext';
+import { useJourneyContext } from '../contexts/JourneyContext';
 
 // Define the columns that can be sorted in the table
 type SortField = 'route' | 'distance' | 'timesTaken' | 'totalDistance' | 'modes';
@@ -15,7 +15,7 @@ type SortDirection = 'asc' | 'desc';
  */
 export function RouteTable() {
   // Get route data and selection state from global context
-  const { routeGroups, selectedRoute, setSelectedRoute } = useJourney();
+  const { routeGroups, selectedRoute, setSelectedRoute } = useJourneyContext();
   
   // Local state for table sorting functionality
   const [sortField, setSortField] = useState<SortField>('route');        // Which column to sort by

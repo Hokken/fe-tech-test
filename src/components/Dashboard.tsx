@@ -1,11 +1,11 @@
-import { useJourney } from '../contexts/JourneyContext';
+import { useJourneyContext } from '../contexts/JourneyContext';
 import { FileUpload } from './FileUpload';
 import { TransportChart } from './TransportChart';
 import { RouteTable } from './RouteTable';
 import { ErrorBoundary } from './ErrorBoundary';
 
 export function Dashboard() {
-  const { isLoading, error } = useJourney();
+  const { isLoading, error } = useJourneyContext();
 
   return (
     <div className="max-w-7xl mx-auto p-6">

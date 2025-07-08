@@ -42,12 +42,12 @@ export const JourneyContext = createContext<JourneyContextType | undefined>(unde
  * @throws Error if used outside of JourneyProvider
  * @returns JourneyContextType - All journey data and actions
  */
-export function useJourney() {
+export function useJourneyContext() {
     const context = useContext(JourneyContext);
     
     // Runtime check to ensure proper provider usage
     if (context === undefined) {
-        throw new Error('useJourney must be used within a JourneyProvider');
+        throw new Error('useJourneyContext must be used within a JourneyProvider');
     }
     
     return context;
