@@ -2,6 +2,7 @@ import { useJourney } from '../contexts/JourneyContext';
 import { FileUpload } from './FileUpload';
 import { TransportChart } from './TransportChart';
 import { RouteTable } from './RouteTable';
+import { ErrorBoundary } from './ErrorBoundary';
 
 export function Dashboard() {
   const { isLoading, error } = useJourney();
@@ -24,8 +25,13 @@ export function Dashboard() {
         </div>
       ) : (
         <>
-          <TransportChart />
-          <RouteTable />
+          <ErrorBoundary>
+            <TransportChart />
+          </ErrorBoundary>
+          
+          <ErrorBoundary>
+            <RouteTable />
+          </ErrorBoundary>
         </>
       )}
     </div>
