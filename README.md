@@ -270,7 +270,12 @@ src/
 - Automatic scroll-to-chart when selecting routes on mobile
 - Optimized typography and spacing for small screens
 
-### Deployment url
+### **Personal Notes**
+
+- see INITIAL-NOTES.md for more details
+- see DEVELOPMENT-PLAN.md for more details
+
+### **Deployment url**
 
 https://fe-tech-test-tau.vercel.app/
 
